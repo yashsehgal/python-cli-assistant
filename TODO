@@ -1,0 +1,11 @@
+THIS IS THE TODO LIST OF FEATURES WE WILL BE ADDING IN THE CLI-APPLICATION
+
+- Create an interactive cli-interface for the user to operate the application
+- Use Local Storage/File Systems to store user-related data such as username, 
+  github_profile, bio and other features which will be implemented further.
+
+- Create a System which can be used to perform various git-related operations 
+  on the projects/folders/repositories which are being added in the 
+  system by the user.
+
+
